@@ -3,7 +3,7 @@
 
 # how to use
 i made this back when i did not know
-how to make "runME.sh" or any other
+how to make  a "RUNME.sh" or any other
 executeable files! so you will just have
 to run the raw python file.
 
