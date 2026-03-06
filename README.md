@@ -1,7 +1,7 @@
 # Dice - 1.0 - FOSS
 **note this is old and kinda sucks!**
 
-#how to use
+# how to use
 i made this back when i did not know
 how to make "runME.sh" or any other
 executeable files! so you will just have
