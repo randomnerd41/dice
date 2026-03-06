@@ -2,7 +2,10 @@ import random
 import time
 import os
 
-#note this only works on linux based systems and i will not make it work on windows anytime soon. it will work i mac *i think*
+# ==VERSON - 1.0 - GPL_3.0 ==
+# yes this is one of the first programs i ever made
+# and yes i could have made it better, but will i?
+# no.
 
 #numbers
 a = 1
@@ -13,7 +16,7 @@ e = 5
 f = 6
 
 #start
-print("welcome to dice! a FOSS game for linux.")
+print("welcome to dice! for linux only .")
 time.sleep(5)
 os.system('clear && echo made by classic14.')
 time.sleep(3)
