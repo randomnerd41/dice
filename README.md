@@ -1,5 +1,5 @@
 # Dice - 1.0 - FOSS
-**note this is old and kinda sucks!**
+**note this is old and kinda bad**
 
 # how to use
 i made this back when i did not know
