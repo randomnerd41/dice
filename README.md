@@ -9,6 +9,6 @@ to run the raw python file.
 
 **for linux only!**
 
-#about
+# about
 made by randomnerd41
 2025 - that one time
